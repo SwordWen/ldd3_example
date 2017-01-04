@@ -8,6 +8,6 @@ Linux ****** 4.4.0-57-generic #78-Ubuntu SMP Fri Dec 9 23:50:32 UTC 2016 x86_64 
 make all
 
 2. insert module and remove module
-#check /var/log/syslog 
+#check /var/log/syslog
 insmod hellomod.ko
 rmmod hellomod
